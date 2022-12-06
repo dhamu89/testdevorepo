@@ -3,3 +3,5 @@ uptime
 df -h
 dmesg
 free -g
+top
+last
