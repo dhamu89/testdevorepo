@@ -2,3 +2,4 @@
 uptime
 df -h
 dmesg
+free -g
