@@ -5,3 +5,5 @@ dmesg
 free -g
 top
 last
+git --version
+
